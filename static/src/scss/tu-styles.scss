@@ -1,0 +1,53 @@
+$content-max-width: 1440px;
+
+// Import global styles (optional)
+@import "lib/global";
+
+// Page-specific styles below:
+// ...
+*:focus {
+	outline: none !important;
+}
+
+*,
+a,
+a:hover {
+	-webkit-font-smoothing: antialiased;
+}
+
+a {
+	// text-decoration: underline;
+}
+
+body {
+	background-color: $color-cream;
+
+	&.no-scroll {
+		overflow: hidden;
+	}
+
+	@include breakpoint(medium) {
+		font-size: 13px;
+	}
+}
+
+// ScrollSmoother setup
+#smooth-wrapper {
+	overflow: hidden;
+	position: fixed;
+	height: 100%;
+	width: 100%;
+	top: 0;
+	left: 0;
+}
+
+#smooth-content {
+	overflow: visible;
+	width: 100%;
+}
+
+// Hide some Horizon stuff that's getting in the way
+dialog-component,
+quick-add-dialog {
+	display: none;
+}

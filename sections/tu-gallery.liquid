@@ -1,0 +1,91 @@
+<div class="tu-gallery wrapper">
+  <div class="page-width">
+    {% if section.settings.title != blank %}
+      <h2 class="tu-gallery__heading">{{ section.settings.title | escape }}</h2>
+    {% endif %}
+
+    {% if section.blocks.size > 0 %}
+      <ul class="tu-gallery__grid tu-gallery__grid--cols-{{ section.settings.columns }}" role="list">
+        {% for block in section.blocks %}
+          <li class="tu-gallery__item" {{ block.shopify_attributes }}>
+            {% if block.settings.image != blank %}
+              {%- assign img_url = block.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
+              <img
+                class="tu-gallery__image lazyload"
+                src="{{ block.settings.image | img_url: '300x300' }}"
+                data-src="{{ img_url }}"
+                data-widths="[360, 540, 720, 900, 1080]"
+                data-aspectratio="{{ block.settings.image.aspect_ratio }}"
+                data-sizes="auto"
+                alt="{{ block.settings.image.alt | escape }}"
+                width="{{ block.settings.image.width }}"
+                height="{{ block.settings.image.height }}">
+              <noscript>
+                {{ block.settings.image | img_url: '540x' | img_tag: block.settings.image.alt, 'tu-gallery__image' }}
+              </noscript>
+            {% else %}
+              {{ 'image' | placeholder_svg_tag: 'placeholder-svg tu-gallery__image' }}
+            {% endif %}
+
+            {% if block.settings.title != blank %}
+              <p class="tu-gallery__caption">{{ block.settings.title | escape }}</p>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+</div>
+
+{% schema %}
+{
+  "name": "Gallery",
+  "settings": [
+    {
+      "type": "text",
+      "id": "title",
+      "label": "Heading"
+    },
+    {
+      "type": "select",
+      "id": "columns",
+      "label": "Number of columns",
+      "default": "3",
+      "options": [
+        { "value": "2", "label": "2" },
+        { "value": "3", "label": "3" },
+        { "value": "4", "label": "4" }
+      ]
+    }
+  ],
+  "blocks": [
+    {
+      "type": "image",
+      "name": "Image",
+      "settings": [
+        {
+          "type": "image_picker",
+          "id": "image",
+          "label": "Image"
+        },
+        {
+          "type": "text",
+          "id": "title",
+          "label": "Title"
+        }
+      ]
+    }
+  ],
+  "presets": [
+    {
+      "name": "Gallery",
+      "category": "Image",
+      "blocks": [
+        { "type": "image" },
+        { "type": "image" },
+        { "type": "image" }
+      ]
+    }
+  ]
+}
+{% endschema %}

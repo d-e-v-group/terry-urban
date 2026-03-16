@@ -1,0 +1,15 @@
+{
+	"overwrite": true,
+	"paths": {
+		"dist": {
+			"css": "../assets",
+			"images": "../assets",
+			"js": "../assets"
+		},
+		"src": {
+			"scss": "src/scss",
+			"images": "src/images",
+			"js": "src/js"
+		}
+	}
+}

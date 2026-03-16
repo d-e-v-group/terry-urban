@@ -1,0 +1,84 @@
+$maxlarge: 1600px;
+$xlarge: 1440px;
+$large: 1200px;
+$nav-breakpoint: 1024px;
+$medium: 1000px;
+$small: 768px;
+$tiny: 700px;
+
+@mixin breakpoint($point) {
+	@if $point == maxlarge {
+		@media (max-width: $maxlarge - 1px) {
+			@content;
+		}
+	} @else if $point == xlarge {
+		@media (max-width: $xlarge - 1px) {
+			@content;
+		}
+	} @else if $point == large {
+		@media (max-width: $large - 1px) {
+			@content;
+		}
+	} @else if $point == nav-breakpoint {
+		@media (max-width: $nav-breakpoint - 1px) {
+			@content;
+		}
+	} @else if $point == medium {
+		@media (max-width: $medium - 1px) {
+			@content;
+		}
+	} @else if $point == mediumup {
+		@media (min-width: $medium) {
+			@content;
+		}
+	} @else if $point == small {
+		@media (max-width: $small - 1px) {
+			@content;
+		}
+	} @else if $point == smallup {
+		@media (min-width: $small) {
+			@content;
+		}
+	} @else if $point == tiny {
+		@media (max-width: $tiny - 1px) {
+			@content;
+		}
+	}
+}
+
+@function em($target, $context: 16) {
+	@return ($target / $context) * 1em;
+}
+
+@mixin flex-gap-width($columns, $gap) {
+	width: calc((100% / $columns) - $gap + ($gap / $columns));
+}
+
+@mixin line-clamp($lines) {
+	display: -webkit-box;
+	-webkit-line-clamp: $lines;
+	-webkit-box-orient: vertical;
+	overflow: hidden;
+}
+
+@mixin no-spacing {
+	margin: 0;
+	padding: 0;
+}
+
+@mixin gutter {
+	padding-left: min(max(30px, 3.15vw), 60px);
+	padding-right: min(max(30px, 3.15vw), 60px);
+}
+
+// Responsive spacing mixin
+// Applies desktop value by default, mobile value at medium breakpoint
+@mixin responsive-spacing($property, $desktop-value, $mobile-value) {
+	& {
+		#{$property}: calc(#{$desktop-value} * 1px);
+	}
+
+	@include breakpoint(medium) {
+		#{$property}: calc(#{$mobile-value} * 1px);
+	}
+}
