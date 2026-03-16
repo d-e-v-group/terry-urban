@@ -561,13 +561,29 @@
               "image": "shopify://shop_images/TERRYURBANPRODUCTSHOTS10032024_0000_1A_360x_78d6a7fc-f204-4416-84b5-208f1e0a87cb.webp",
               "title": "insane white t"
             }
+          },
+          "image_jYrp6d": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/2A_360x_92c7930b-0e5c-46e9-9eb5-dd505c543fcd.webp",
+              "title": "blue t"
+            }
+          },
+          "image_zgcUBA": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/TERRYURBANPRODUCTSHOTS10032024_0004_2A_360x_0b92f365-1baa-4637-92fc-bfe01aa9882c.webp",
+              "title": "black t 2"
+            }
           }
         },
         "block_order": [
           "image_rf4yq6",
           "image_EUmra9",
           "image_b3Lrnw",
-          "image_67YmtU"
+          "image_67YmtU",
+          "image_jYrp6d",
+          "image_zgcUBA"
         ],
         "name": "Gallery",
         "settings": {
