@@ -61,6 +61,17 @@
 		lightboxImg.src = item.dataset.lightboxSrc;
 		lightboxImg.alt = item.dataset.caption || "";
 		updateNavState();
+		preloadAdjacent();
+	}
+
+	function preloadAdjacent() {
+		[activeIndex - 1, activeIndex + 1].forEach(function (i) {
+			if (i < 0 || i >= activeItems.length) return;
+			var src = activeItems[i].dataset.lightboxSrc;
+			if (!src) return;
+			var img = new Image();
+			img.src = src;
+		});
 	}
 
 	function updateNavState() {
