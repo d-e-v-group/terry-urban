@@ -25,6 +25,7 @@
 		el.setAttribute("aria-label", "Image lightbox");
 		el.innerHTML = [
 			'<div class="tu-lightbox__overlay"></div>',
+			'<p class="tu-lightbox__title"></p>',
 			'<div class="tu-lightbox__frame">',
 			'  <img class="tu-lightbox__image" src="" alt="">',
 			"</div>",
@@ -60,6 +61,7 @@
 		const item = activeItems[activeIndex];
 		lightboxImg.src = item.dataset.lightboxSrc;
 		lightboxImg.alt = item.dataset.caption || "";
+		lightboxEl.querySelector(".tu-lightbox__title").textContent = item.dataset.caption || "";
 		updateNavState();
 		preloadAdjacent();
 	}

@@ -98,6 +98,23 @@
 		object-fit: contain;
 	}
 
+	&__title {
+		position: fixed;
+		top: 44px;
+		left: 50%;
+		transform: translateX(-50%);
+		z-index: 2;
+		margin: 0;
+		white-space: nowrap;
+		text-align: center;
+		font-size: 18px;
+		color: #000;
+
+		@include breakpoint(small) {
+			top: 24px;
+		}
+	}
+
 	&__close {
 		position: fixed;
 		top: 20px;
@@ -125,6 +142,10 @@
 		z-index: 2;
 		display: flex;
 		gap: 0;
+
+		@include breakpoint(small) {
+			bottom: 0;
+		}
 	}
 
 	&__prev,
