@@ -1,1 +1,699 @@
-{"current":{"color_body_bg":"#ffffff","color_body_text":"#333333","color_primary_color":"#333333","color_primary_button_text":"#ffffff","color_sale_badge":"#c8493f","color_borders":"#e8e8e8","color_form":"#f4f4f4","color_image_overlay_text":"#fff","color_image_overlay":"#333333","image_overlay_opacity":25,"type_header_font":"futura_n4","type_header_base_size":"28px","type_base_font":"futura_n4","type_base_size":"15px","type_button_base_size":"14px","type_navigation_base_size":"16px","cart_enable_ajax":false,"show_breadcrumb_nav":true,"share_image":"shopify:\/\/shop_images\/smoking_skull_logo.png","social_facebook_link":"","social_twitter_link":"https:\/\/twitter.com\/terryurban","social_pinterest_link":"","social_instagram_link":"https:\/\/instagram.com\/terryurban","social_snapchat_link":"","social_google_plus_link":"","social_tumblr_link":"","social_youtube_link":"","social_vimeo_link":"","social_fancy_link":"","main_blog":"","share_facebook":true,"share_twitter":true,"share_pinterest":true,"favicon":"","checkout_header_image":"","checkout_logo_image":"","checkout_logo_position":"left","checkout_logo_size":"medium","checkout_body_background_image":"","checkout_body_background_color":"#fff","checkout_input_background_color_mode":"white","checkout_sidebar_background_image":"","checkout_sidebar_background_color":"#fafafa","checkout_heading_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_body_font":"-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'","checkout_accent_color":"#197bbd","checkout_button_color":"#197bbd","checkout_error_color":"#e32c2b","sections":{"featured-products":{"type":"featured-products","settings":{"title":"","home_page_featured_products":"","home_featured_products_row_num":2}},"footer":{"type":"footer","blocks":{"edb322ae-eb81-47f6-95e4-d8ba4ca37c73":{"type":"menu","settings":{"title":"Terms of Service","menu":"footer"}}},"block_order":["edb322ae-eb81-47f6-95e4-d8ba4ca37c73"],"settings":{"show_payment_icons":true}},"header":{"type":"header","settings":{"logo":"shopify:\/\/shop_images\/N_D_CAPSULE_3_DESIGNS-34.JPG","logo_max_width":"200","show_announcement":false,"home_page_only":true,"announcement_text":"Announce something here","announcement_link":"","tagline":""}},"sidebar":{"type":"sidebar","settings":{"main_menu_link_list":"main-menu"}},"product-template":{"type":"product-template","settings":{"product_quantity_enable":true,"vendor_show":true,"social_sharing_products":true,"product_description_position":"right","show_extra_tab":true,"extra_tab_content":"","product_image_zoom_type":"zoom-in","enable_payment_button":false,"add_to_cart_width":"regular"}},"product-recommendations":{"type":"product-recommendations","settings":{"show_product_recommendations":true,"heading":"You may also like","vendor_show":false}},"1568061506981":{"type":"slideshow","blocks":{"1818c24b-3bbe-4790-b2e8-0d2087debd68":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_1235.jpg","alignment":"center center","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}},"1568062182291":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/TERRY_URBAN_BY_GUNNER.jpg","alignment":"center center","overlay_opacity":0,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}},"1568061636696":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/day_break_slide_1.jpg","alignment":"center center","overlay_opacity":0,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":"http:\/\/www.forthosewhosin.com"}},"1568061506981-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/working_on_mural-terry_urban.JPG","alignment":"center center","overlay_opacity":0,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}},"1568061506981-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Terry_Monolith_2024-20.jpg","alignment":"center center","overlay_opacity":0,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}},"b89328d1-f565-4bf7-96cf-d670173a8b3a":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/mgk_x_terry_urban_mural_mg-31.jpg","alignment":"center center","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}}},"block_order":["1818c24b-3bbe-4790-b2e8-0d2087debd68","1568062182291","1568061636696","1568061506981-1","1568061506981-0","b89328d1-f565-4bf7-96cf-d670173a8b3a"],"settings":{"slider_height":"large","slider_home_auto":true,"slider_home_rate":3,"slider_home_transition":"fade","text_size":"medium"}},"collection-template":{"type":"collection-template","settings":{"vendor_show":false,"collection_sort_enable":true,"collection_tag_enable":false}},"cee0a2f2-abdb-4134-8191-857e043925a1":{"type":"slideshow","blocks":{"cee0a2f2-abdb-4134-8191-857e043925a1-168564222360d35916-0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/DSC_5922.jpg","alignment":"center center","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"HONIRO X TERRY URBAN ITALIAN PRINTS","button_label":"BUY NOW","button_link":"https:\/\/www.honiroartgallery.com\/c\/terry-urban\/"}},"2ca73347-1754-430a-a0c6-d874d1047eba":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/DSC_5954.jpg","alignment":"center center","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}},"cee0a2f2-abdb-4134-8191-857e043925a1-168564222360d35916-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/DSC_5856.jpg","alignment":"center center","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}},"5dc66601-35d7-451c-864b-e60b0cb83d4e":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/DSC_5657.jpg","alignment":"center top","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}},"f9068524-0ed3-4eda-89e4-3f5910174e1f":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/DSC_5836.jpg","alignment":"center center","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}},"f91fe384-8b91-4d9b-af6b-9a7bc52bc69a":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/DSC_5745.jpg","alignment":"center center","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}}},"block_order":["cee0a2f2-abdb-4134-8191-857e043925a1-168564222360d35916-0","2ca73347-1754-430a-a0c6-d874d1047eba","cee0a2f2-abdb-4134-8191-857e043925a1-168564222360d35916-1","5dc66601-35d7-451c-864b-e60b0cb83d4e","f9068524-0ed3-4eda-89e4-3f5910174e1f","f91fe384-8b91-4d9b-af6b-9a7bc52bc69a"],"disabled":true,"settings":{"slider_height":"small","slider_home_auto":false,"slider_home_rate":7,"slider_home_transition":"slide","text_size":"medium"}},"94fd4aa2-9475-4599-a7c1-e16449a62033":{"type":"slideshow","blocks":{"efc295e0-7ebf-4ee1-8cb2-e7a4e0beddd0":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_3246.jpg","alignment":"center top","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"LAHAINA MAUI STRONG PRINTS","button_label":"BUY NOW","button_link":"https:\/\/www.houseofroulx.com\/collections\/terry-urban"}},"94fd4aa2-9475-4599-a7c1-e16449a62033-image-2":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_3213.jpg","alignment":"center center","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}},"bacf6f8e-c55e-498e-a8a5-520221719abf":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_3185_c13263b3-bc06-408a-987e-d1744d8813fd.jpg","alignment":"center center","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}},"94fd4aa2-9475-4599-a7c1-e16449a62033-image-1":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_3184.jpg","alignment":"left center","overlay_opacity":16,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}},"8b41ba50-898b-422f-8f24-8ef2e3d24255":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/IMG_3214.jpg","alignment":"center top","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"LAHAINA MAUI STRONG PRINTS","button_label":"BUY NOW","button_link":"https:\/\/www.houseofroulx.com\/collections\/terry-urban"}}},"block_order":["efc295e0-7ebf-4ee1-8cb2-e7a4e0beddd0","94fd4aa2-9475-4599-a7c1-e16449a62033-image-2","bacf6f8e-c55e-498e-a8a5-520221719abf","94fd4aa2-9475-4599-a7c1-e16449a62033-image-1","8b41ba50-898b-422f-8f24-8ef2e3d24255"],"disabled":true,"settings":{"slider_height":"small","slider_home_auto":false,"slider_home_rate":7,"slider_home_transition":"slide","text_size":"medium"}},"slideshow_BfNaqD":{"type":"slideshow","blocks":{"image_4nBXK3":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/035A9586.jpg","alignment":"center center","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"HOOD BEACH COLLECTION","button_label":"Available NOW","button_link":"shopify:\/\/collections\/shirts"}},"image_XDBnyR":{"type":"image","disabled":true,"settings":{"image":"shopify:\/\/shop_images\/black_and_white_hood_beach.jpg","alignment":"center center","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"HOOD BEACH","button_label":"AVAILABLE 9.25","button_link":"shopify:\/\/collections\/shirts"}}},"block_order":["image_4nBXK3","image_XDBnyR"],"disabled":true,"settings":{"slider_height":"small","slider_home_auto":false,"slider_home_rate":7,"slider_home_transition":"slide","text_size":"medium"}},"featured_video_hMmQYH":{"type":"featured-video","disabled":true,"name":"Video","settings":{"heading":"Video","video_url":""}},"slideshow_CwW3TW":{"type":"slideshow","blocks":{"image_KYP8nh":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Neon-Range-Install-2.jpg","alignment":"center center","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"NEON RANGE|WEST CHELSEA CONTEMPORARY","button_label":"VIEW CATALOG","button_link":"https:\/\/wcc.art\/show\/west-chelsea-contemporary-neon-range-pop-visions-of-the-new-west-pt-ii-i"}},"image_YjwGWf":{"type":"image","settings":{"image":"shopify:\/\/shop_images\/Neon_Range_II_-_VIP_12.jpg","alignment":"center center","overlay_opacity":30,"color_text":"#ffffff","text_alignment":"center","slide_heading":"","button_label":"","button_link":""}}},"block_order":["image_KYP8nh","image_YjwGWf"],"name":"Slideshow","settings":{"slider_height":"small","slider_home_auto":false,"slider_home_rate":7,"slider_home_transition":"slide","text_size":"medium"}},"featured_products_MbacfP":{"type":"featured-products","name":"Featured collection","settings":{"title":"Featured collection","home_page_featured_products":"shirts","home_featured_products_row_num":2}},"featured_row_dkEyJP":{"type":"featured-row","name":"Image with text","settings":{"image":"shopify:\/\/shop_images\/print_for_ig_post.jpg","layout":"left","title":"Boys Don't Cry Print","text":"<p>New print release from House of Roux and Terry Urban. <\/p><p>Hand-signed and numbered by artist Terry Urban in a limited edition of 100<\/p><p>Autographed archival pigment print • Moab Entrada Rag Bright 290 GSM archival paper • 16 x 20 inches <\/p><p>House of Roulx blind embossed stamping • Authentic Edition rubber stamp on verso • Letter of Authenticity<\/p><p><\/p>","button_label":"AVAILABLE NOW","button_link":"https:\/\/www.houseofroulx.com\/collections\/terry-urban\/products\/terry-urban-boys-dont-cry-archival-print-limited-edition-of-100-16-x-20"}}},"content_for_index":["1568061506981","featured_row_dkEyJP","featured_products_MbacfP","slideshow_CwW3TW","slideshow_BfNaqD","cee0a2f2-abdb-4134-8191-857e043925a1","94fd4aa2-9475-4599-a7c1-e16449a62033","featured_video_hMmQYH"]},"presets":{"Light":{"color_body_bg":"#ffffff","color_body_text":"#333333","color_primary_color":"#333333","color_primary_button_text":"#ffffff","color_sale_badge":"#c8493f","color_borders":"#e8e8e8","color_form":"#f4f4f4","color_image_overlay_text":"#fff","color_image_overlay":"#333333","image_overlay_opacity":"25","type_header_font":"times_new_roman_n4","type_header_base_size":"28px","type_base_font":"helvetica_n4","type_base_size":"15px","type_button_base_size":"14px","type_navigation_base_size":"16px","show_breadcrumb_nav":true,"share_facebook":true,"share_twitter":true,"share_pinterest":true,"sections":{"featured-products":{"type":"featured-products","settings":{"home_page_featured_products":"frontpage"}},"featured-content":{"type":"featured-content","settings":{}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"menu","settings":{"menu":"footer"}}},"block_order":["footer-0"],"settings":{}}},"content_for_index":["featured-products","featured-content"]},"Beauty":{"color_body_bg":"#f7f7f7","color_body_text":"#3c4049","color_primary_color":"#d97c76","color_primary_button_text":"#ffffff","color_sale_badge":"#d97c76","color_borders":"#d7d8d2","color_form":"#ffffff","color_image_overlay_text":"#fff","color_image_overlay":"#3c4049","image_overlay_opacity":"25","type_header_font":"pt_serif_n7","type_header_base_size":"28px","type_base_font":"pt_serif_n4","type_base_size":"16px","type_button_base_size":"12px","type_navigation_base_size":"16px","show_breadcrumb_nav":true,"share_facebook":true,"share_twitter":true,"share_pinterest":true,"sections":{"featured-products":{"type":"featured-products","settings":{"home_page_featured_products":"frontpage"}},"featured-content":{"type":"featured-content","settings":{}},"footer":{"type":"footer","blocks":{"footer-0":{"type":"menu","settings":{"menu":"footer"}}},"block_order":["footer-0"],"settings":{}}},"content_for_index":["featured-products","featured-content"]}}}
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "current": {
+    "color_body_bg": "#ffffff",
+    "color_body_text": "#333333",
+    "color_primary_color": "#333333",
+    "color_primary_button_text": "#ffffff",
+    "color_sale_badge": "#c8493f",
+    "color_borders": "#e8e8e8",
+    "color_form": "#f4f4f4",
+    "color_image_overlay_text": "#fff",
+    "color_image_overlay": "#333333",
+    "image_overlay_opacity": 25,
+    "type_header_font": "futura_n4",
+    "type_header_base_size": "28px",
+    "type_base_font": "futura_n4",
+    "type_base_size": "15px",
+    "type_button_base_size": "14px",
+    "type_navigation_base_size": "16px",
+    "cart_enable_ajax": false,
+    "show_breadcrumb_nav": true,
+    "share_image": "shopify://shop_images/smoking_skull_logo.png",
+    "social_facebook_link": "",
+    "social_twitter_link": "https://twitter.com/terryurban",
+    "social_pinterest_link": "",
+    "social_instagram_link": "https://instagram.com/terryurban",
+    "social_snapchat_link": "",
+    "social_google_plus_link": "",
+    "social_tumblr_link": "",
+    "social_youtube_link": "",
+    "social_vimeo_link": "",
+    "social_fancy_link": "",
+    "main_blog": "",
+    "share_facebook": true,
+    "share_twitter": true,
+    "share_pinterest": true,
+    "favicon": "",
+    "checkout_header_image": "",
+    "checkout_logo_image": "",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#fff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_body_font": "-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol'",
+    "checkout_accent_color": "#197bbd",
+    "checkout_button_color": "#197bbd",
+    "checkout_error_color": "#e32c2b",
+    "sections": {
+      "featured-products": {
+        "type": "featured-products",
+        "settings": {
+          "title": "",
+          "home_page_featured_products": "",
+          "home_featured_products_row_num": 2
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "blocks": {
+          "edb322ae-eb81-47f6-95e4-d8ba4ca37c73": {
+            "type": "menu",
+            "settings": {
+              "title": "Terms of Service",
+              "menu": "footer"
+            }
+          }
+        },
+        "block_order": [
+          "edb322ae-eb81-47f6-95e4-d8ba4ca37c73"
+        ],
+        "settings": {
+          "show_payment_icons": true
+        }
+      },
+      "header": {
+        "type": "header",
+        "settings": {
+          "logo": "shopify://shop_images/N_D_CAPSULE_3_DESIGNS-34.JPG",
+          "logo_max_width": "200",
+          "show_announcement": false,
+          "home_page_only": true,
+          "announcement_text": "Announce something here",
+          "announcement_link": "",
+          "tagline": ""
+        }
+      },
+      "sidebar": {
+        "type": "sidebar",
+        "settings": {
+          "main_menu_link_list": "main-menu"
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_quantity_enable": true,
+          "vendor_show": true,
+          "social_sharing_products": true,
+          "product_description_position": "right",
+          "show_extra_tab": true,
+          "extra_tab_content": "",
+          "product_image_zoom_type": "zoom-in",
+          "enable_payment_button": false,
+          "add_to_cart_width": "regular"
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "heading": "You may also like",
+          "vendor_show": false
+        }
+      },
+      "1568061506981": {
+        "type": "slideshow",
+        "blocks": {
+          "1818c24b-3bbe-4790-b2e8-0d2087debd68": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/IMG_1235.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1568062182291": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/TERRY_URBAN_BY_GUNNER.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 0,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1568061636696": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/day_break_slide_1.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 0,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": "http://www.forthosewhosin.com"
+            }
+          },
+          "1568061506981-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/working_on_mural-terry_urban.JPG",
+              "alignment": "center center",
+              "overlay_opacity": 0,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "1568061506981-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Terry_Monolith_2024-20.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 0,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "b89328d1-f565-4bf7-96cf-d670173a8b3a": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/mgk_x_terry_urban_mural_mg-31.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1818c24b-3bbe-4790-b2e8-0d2087debd68",
+          "1568062182291",
+          "1568061636696",
+          "1568061506981-1",
+          "1568061506981-0",
+          "b89328d1-f565-4bf7-96cf-d670173a8b3a"
+        ],
+        "settings": {
+          "slider_height": "large",
+          "slider_home_auto": true,
+          "slider_home_rate": 3,
+          "slider_home_transition": "fade",
+          "text_size": "medium"
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "settings": {
+          "vendor_show": false,
+          "collection_sort_enable": true,
+          "collection_tag_enable": false
+        }
+      },
+      "cee0a2f2-abdb-4134-8191-857e043925a1": {
+        "type": "slideshow",
+        "blocks": {
+          "cee0a2f2-abdb-4134-8191-857e043925a1-168564222360d35916-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/DSC_5922.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "HONIRO X TERRY URBAN ITALIAN PRINTS",
+              "button_label": "BUY NOW",
+              "button_link": "https://www.honiroartgallery.com/c/terry-urban/"
+            }
+          },
+          "2ca73347-1754-430a-a0c6-d874d1047eba": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/DSC_5954.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "cee0a2f2-abdb-4134-8191-857e043925a1-168564222360d35916-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/DSC_5856.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "5dc66601-35d7-451c-864b-e60b0cb83d4e": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/DSC_5657.jpg",
+              "alignment": "center top",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "f9068524-0ed3-4eda-89e4-3f5910174e1f": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/DSC_5836.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "f91fe384-8b91-4d9b-af6b-9a7bc52bc69a": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/DSC_5745.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "cee0a2f2-abdb-4134-8191-857e043925a1-168564222360d35916-0",
+          "2ca73347-1754-430a-a0c6-d874d1047eba",
+          "cee0a2f2-abdb-4134-8191-857e043925a1-168564222360d35916-1",
+          "5dc66601-35d7-451c-864b-e60b0cb83d4e",
+          "f9068524-0ed3-4eda-89e4-3f5910174e1f",
+          "f91fe384-8b91-4d9b-af6b-9a7bc52bc69a"
+        ],
+        "disabled": true,
+        "settings": {
+          "slider_height": "small",
+          "slider_home_auto": false,
+          "slider_home_rate": 7,
+          "slider_home_transition": "slide",
+          "text_size": "medium"
+        }
+      },
+      "94fd4aa2-9475-4599-a7c1-e16449a62033": {
+        "type": "slideshow",
+        "blocks": {
+          "efc295e0-7ebf-4ee1-8cb2-e7a4e0beddd0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/IMG_3246.jpg",
+              "alignment": "center top",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "LAHAINA MAUI STRONG PRINTS",
+              "button_label": "BUY NOW",
+              "button_link": "https://www.houseofroulx.com/collections/terry-urban"
+            }
+          },
+          "94fd4aa2-9475-4599-a7c1-e16449a62033-image-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/IMG_3213.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "bacf6f8e-c55e-498e-a8a5-520221719abf": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/IMG_3185_c13263b3-bc06-408a-987e-d1744d8813fd.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "94fd4aa2-9475-4599-a7c1-e16449a62033-image-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/IMG_3184.jpg",
+              "alignment": "left center",
+              "overlay_opacity": 16,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
+          "8b41ba50-898b-422f-8f24-8ef2e3d24255": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/IMG_3214.jpg",
+              "alignment": "center top",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "LAHAINA MAUI STRONG PRINTS",
+              "button_label": "BUY NOW",
+              "button_link": "https://www.houseofroulx.com/collections/terry-urban"
+            }
+          }
+        },
+        "block_order": [
+          "efc295e0-7ebf-4ee1-8cb2-e7a4e0beddd0",
+          "94fd4aa2-9475-4599-a7c1-e16449a62033-image-2",
+          "bacf6f8e-c55e-498e-a8a5-520221719abf",
+          "94fd4aa2-9475-4599-a7c1-e16449a62033-image-1",
+          "8b41ba50-898b-422f-8f24-8ef2e3d24255"
+        ],
+        "disabled": true,
+        "settings": {
+          "slider_height": "small",
+          "slider_home_auto": false,
+          "slider_home_rate": 7,
+          "slider_home_transition": "slide",
+          "text_size": "medium"
+        }
+      },
+      "slideshow_BfNaqD": {
+        "type": "slideshow",
+        "blocks": {
+          "image_4nBXK3": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/035A9586.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "HOOD BEACH COLLECTION",
+              "button_label": "Available NOW",
+              "button_link": "shopify://collections/shirts"
+            }
+          },
+          "image_XDBnyR": {
+            "type": "image",
+            "disabled": true,
+            "settings": {
+              "image": "shopify://shop_images/black_and_white_hood_beach.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "HOOD BEACH",
+              "button_label": "AVAILABLE 9.25",
+              "button_link": "shopify://collections/shirts"
+            }
+          }
+        },
+        "block_order": [
+          "image_4nBXK3",
+          "image_XDBnyR"
+        ],
+        "disabled": true,
+        "settings": {
+          "slider_height": "small",
+          "slider_home_auto": false,
+          "slider_home_rate": 7,
+          "slider_home_transition": "slide",
+          "text_size": "medium"
+        }
+      },
+      "featured_video_hMmQYH": {
+        "type": "featured-video",
+        "disabled": true,
+        "name": "Video",
+        "settings": {
+          "heading": "Video",
+          "video_url": ""
+        }
+      },
+      "slideshow_CwW3TW": {
+        "type": "slideshow",
+        "blocks": {
+          "image_KYP8nh": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Neon-Range-Install-2.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "NEON RANGE|WEST CHELSEA CONTEMPORARY",
+              "button_label": "VIEW CATALOG",
+              "button_link": "https://wcc.art/show/west-chelsea-contemporary-neon-range-pop-visions-of-the-new-west-pt-ii-i"
+            }
+          },
+          "image_YjwGWf": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/Neon_Range_II_-_VIP_12.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          }
+        },
+        "block_order": [
+          "image_KYP8nh",
+          "image_YjwGWf"
+        ],
+        "name": "Slideshow",
+        "settings": {
+          "slider_height": "small",
+          "slider_home_auto": false,
+          "slider_home_rate": 7,
+          "slider_home_transition": "slide",
+          "text_size": "medium"
+        }
+      },
+      "featured_products_MbacfP": {
+        "type": "featured-products",
+        "name": "Featured collection",
+        "settings": {
+          "title": "Featured collection",
+          "home_page_featured_products": "shirts",
+          "home_featured_products_row_num": 2
+        }
+      },
+      "featured_row_dkEyJP": {
+        "type": "featured-row",
+        "name": "Image with text",
+        "settings": {
+          "image": "shopify://shop_images/print_for_ig_post.jpg",
+          "layout": "left",
+          "title": "Boys Don't Cry Print",
+          "text": "<p>New print release from House of Roux and Terry Urban. </p><p>Hand-signed and numbered by artist Terry Urban in a limited edition of 100</p><p>Autographed archival pigment print • Moab Entrada Rag Bright 290 GSM archival paper • 16 x 20 inches </p><p>House of Roulx blind embossed stamping • Authentic Edition rubber stamp on verso • Letter of Authenticity</p><p></p>",
+          "button_label": "AVAILABLE NOW",
+          "button_link": "https://www.houseofroulx.com/collections/terry-urban/products/terry-urban-boys-dont-cry-archival-print-limited-edition-of-100-16-x-20"
+        }
+      },
+      "tu_gallery_UGQBEN": {
+        "type": "tu-gallery",
+        "blocks": {
+          "image_rf4yq6": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/1A_360x_9bf9bf62-672f-46c8-8cb3-427f9031e0b2.webp",
+              "title": "black t"
+            }
+          },
+          "image_EUmra9": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/TERRYURBANPRODUCTSHOTS10032024_0008_3A_360x_a42aa409-1ebf-4e52-9345-3c63705d5e99.webp",
+              "title": "loco t"
+            }
+          },
+          "image_b3Lrnw": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/WHITE_TEE_BACK_360x_355c913c-7300-4d0f-9c72-ab15ea9cdd32.webp",
+              "title": "white t"
+            }
+          },
+          "image_67YmtU": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/TERRYURBANPRODUCTSHOTS10032024_0000_1A_360x_78d6a7fc-f204-4416-84b5-208f1e0a87cb.webp",
+              "title": "insane white t"
+            }
+          }
+        },
+        "block_order": [
+          "image_rf4yq6",
+          "image_EUmra9",
+          "image_b3Lrnw",
+          "image_67YmtU"
+        ],
+        "name": "Gallery",
+        "settings": {
+          "title": "",
+          "columns": "4"
+        }
+      }
+    },
+    "content_for_index": [
+      "1568061506981",
+      "featured_row_dkEyJP",
+      "featured_products_MbacfP",
+      "slideshow_CwW3TW",
+      "slideshow_BfNaqD",
+      "cee0a2f2-abdb-4134-8191-857e043925a1",
+      "94fd4aa2-9475-4599-a7c1-e16449a62033",
+      "featured_video_hMmQYH",
+      "tu_gallery_UGQBEN"
+    ]
+  },
+  "presets": {
+    "Light": {
+      "color_body_bg": "#ffffff",
+      "color_body_text": "#333333",
+      "color_primary_color": "#333333",
+      "color_primary_button_text": "#ffffff",
+      "color_sale_badge": "#c8493f",
+      "color_borders": "#e8e8e8",
+      "color_form": "#f4f4f4",
+      "color_image_overlay_text": "#fff",
+      "color_image_overlay": "#333333",
+      "image_overlay_opacity": "25",
+      "type_header_font": "times_new_roman_n4",
+      "type_header_base_size": "28px",
+      "type_base_font": "helvetica_n4",
+      "type_base_size": "15px",
+      "type_button_base_size": "14px",
+      "type_navigation_base_size": "16px",
+      "show_breadcrumb_nav": true,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "sections": {
+        "featured-products": {
+          "type": "featured-products",
+          "settings": {
+            "home_page_featured_products": "frontpage"
+          }
+        },
+        "featured-content": {
+          "type": "featured-content",
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0"
+          ],
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "featured-products",
+        "featured-content"
+      ]
+    },
+    "Beauty": {
+      "color_body_bg": "#f7f7f7",
+      "color_body_text": "#3c4049",
+      "color_primary_color": "#d97c76",
+      "color_primary_button_text": "#ffffff",
+      "color_sale_badge": "#d97c76",
+      "color_borders": "#d7d8d2",
+      "color_form": "#ffffff",
+      "color_image_overlay_text": "#fff",
+      "color_image_overlay": "#3c4049",
+      "image_overlay_opacity": "25",
+      "type_header_font": "pt_serif_n7",
+      "type_header_base_size": "28px",
+      "type_base_font": "pt_serif_n4",
+      "type_base_size": "16px",
+      "type_button_base_size": "12px",
+      "type_navigation_base_size": "16px",
+      "show_breadcrumb_nav": true,
+      "share_facebook": true,
+      "share_twitter": true,
+      "share_pinterest": true,
+      "sections": {
+        "featured-products": {
+          "type": "featured-products",
+          "settings": {
+            "home_page_featured_products": "frontpage"
+          }
+        },
+        "featured-content": {
+          "type": "featured-content",
+          "settings": {}
+        },
+        "footer": {
+          "type": "footer",
+          "blocks": {
+            "footer-0": {
+              "type": "menu",
+              "settings": {
+                "menu": "footer"
+              }
+            }
+          },
+          "block_order": [
+            "footer-0"
+          ],
+          "settings": {}
+        }
+      },
+      "content_for_index": [
+        "featured-products",
+        "featured-content"
+      ]
+    }
+  }
+}
