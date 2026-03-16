@@ -7,19 +7,25 @@
     {% if section.blocks.size > 0 %}
       <ul class="tu-gallery__grid tu-gallery__grid--cols-{{ section.settings.columns }}" role="list">
         {% for block in section.blocks %}
-          <li class="tu-gallery__item" {{ block.shopify_attributes }}>
+          {%- assign lightbox_src = block.settings.image | img_url: '1800x' -%}
+          <li class="tu-gallery__item"
+            data-lightbox-src="{{ lightbox_src }}"
+            data-caption="{{ block.settings.title | escape }}"
+            {{ block.shopify_attributes }}>
             {% if block.settings.image != blank %}
               {%- assign img_url = block.settings.image | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
-              <img
-                class="tu-gallery__image lazyload"
-                src="{{ block.settings.image | img_url: '300x300' }}"
-                data-src="{{ img_url }}"
-                data-widths="[360, 540, 720, 900, 1080]"
-                data-aspectratio="{{ block.settings.image.aspect_ratio }}"
-                data-sizes="auto"
-                alt="{{ block.settings.image.alt | escape }}"
-                width="{{ block.settings.image.width }}"
-                height="{{ block.settings.image.height }}">
+              <button class="tu-gallery__trigger" type="button" aria-label="Open {{ block.settings.title | default: 'image' | escape }} in lightbox">
+                <img
+                  class="tu-gallery__image lazyload"
+                  src="{{ block.settings.image | img_url: '300x300' }}"
+                  data-src="{{ img_url }}"
+                  data-widths="[360, 540, 720, 900, 1080]"
+                  data-aspectratio="{{ block.settings.image.aspect_ratio }}"
+                  data-sizes="auto"
+                  alt="{{ block.settings.image.alt | escape }}"
+                  width="{{ block.settings.image.width }}"
+                  height="{{ block.settings.image.height }}">
+              </button>
               <noscript>
                 {{ block.settings.image | img_url: '540x' | img_tag: block.settings.image.alt, 'tu-gallery__image' }}
               </noscript>

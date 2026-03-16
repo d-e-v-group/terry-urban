@@ -27,6 +27,15 @@
     flex-direction: column;
   }
 
+  &__trigger {
+    display: block;
+    width: 100%;
+    padding: 0;
+    border: none;
+    background: none;
+    cursor: pointer;
+  }
+
   &__image {
     display: block;
     width: 100%;
@@ -37,4 +46,98 @@
     margin: 8px 0 0;
     font-size: 0.875em;
   }
+}
+
+// Lightbox
+// ─────────────────────────────────────────────────────────────────────────────
+
+.tu-lightbox {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  &[hidden] { display: none; }
+
+  &__overlay {
+    position: absolute;
+    inset: 0;
+    background: rgba(0, 0, 0, 0.88);
+  }
+
+  &__frame {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-width: 90vw;
+  }
+
+  &__image {
+    display: block;
+    max-height: 80vh;
+    width: auto;
+    max-width: 90vw;
+  }
+
+  &__close {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 2;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    font-size: 22px;
+    line-height: 1;
+    cursor: pointer;
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.8);
+    }
+  }
+
+  &__nav {
+    position: fixed;
+    bottom: 24px;
+    right: 24px;
+    z-index: 2;
+    display: flex;
+    gap: 8px;
+  }
+
+  &__prev,
+  &__next {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 40px;
+    height: 40px;
+    padding: 0;
+    border: 1px solid rgba(255, 255, 255, 0.4);
+    border-radius: 50%;
+    background: rgba(0, 0, 0, 0.5);
+    color: #fff;
+    font-size: 26px;
+    line-height: 1;
+    cursor: pointer;
+
+    &:hover {
+      background: rgba(0, 0, 0, 0.8);
+    }
+  }
+}
+
+body.tu-lightbox-open {
+  overflow: hidden;
 }
