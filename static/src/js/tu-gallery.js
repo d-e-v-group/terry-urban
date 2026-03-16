@@ -30,8 +30,8 @@
 			"</div>",
 			'<button class="tu-lightbox__close" aria-label="Close">&times;</button>',
 			'<div class="tu-lightbox__nav">',
-			'  <button class="tu-lightbox__prev" aria-label="Previous image">&#8249;</button>',
-			'  <button class="tu-lightbox__next" aria-label="Next image">&#8250;</button>',
+			'  <button class="tu-lightbox__prev" aria-label="Previous image"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-left" viewBox="0 0 9.8 16.8"><path d="M8.8 0c.3 0 .5.1.7.3.4.4.4 1 0 1.4L2.8 8.4l6.7 6.7c.4.4.4 1 0 1.4s-1 .4-1.4 0L0 8.4 8.1.3c.2-.2.4-.3.7-.3z" class="layer"/></svg></button>',
+			'  <button class="tu-lightbox__next" aria-label="Next image"><svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-right" viewBox="0 0 9.8 16.8"><path d="M1 16.8c-.3 0-.5-.1-.7-.3-.4-.4-.4-1 0-1.4L7 8.4.3 1.7C-.1 1.3-.1.7.3.3s1-.4 1.4 0l8.1 8.1-8.1 8.1c-.2.2-.4.3-.7.3z"/></svg></button>',
 			"</div>",
 		].join("");
 		document.body.appendChild(el);
@@ -60,15 +60,27 @@
 		const item = activeItems[activeIndex];
 		lightboxImg.src = item.dataset.lightboxSrc;
 		lightboxImg.alt = item.dataset.caption || "";
+		updateNavState();
+	}
+
+	function updateNavState() {
+		const prevBtn = lightboxEl.querySelector(".tu-lightbox__prev");
+		const nextBtn = lightboxEl.querySelector(".tu-lightbox__next");
+		const atStart = activeIndex === 0;
+		const atEnd   = activeIndex === activeItems.length - 1;
+		prevBtn.disabled = atStart;
+		nextBtn.disabled = atEnd;
 	}
 
 	function prev() {
-		activeIndex = (activeIndex - 1 + activeItems.length) % activeItems.length;
+		if (activeIndex === 0) return;
+		activeIndex -= 1;
 		renderImage();
 	}
 
 	function next() {
-		activeIndex = (activeIndex + 1) % activeItems.length;
+		if (activeIndex === activeItems.length - 1) return;
+		activeIndex += 1;
 		renderImage();
 	}
 
@@ -113,6 +125,18 @@
 			if (e.key === "ArrowLeft") prev();
 			if (e.key === "ArrowRight") next();
 		});
+
+		// Swipe
+		var touchStartX = 0;
+		lightboxEl.addEventListener("touchstart", function (e) {
+			touchStartX = e.changedTouches[0].screenX;
+		}, { passive: true });
+		lightboxEl.addEventListener("touchend", function (e) {
+			var delta = e.changedTouches[0].screenX - touchStartX;
+			if (Math.abs(delta) < 40) return;
+			if (delta < 0) next();
+			else prev();
+		}, { passive: true });
 
 		// Bind each gallery independently
 		galleries.forEach(bindGallery);
