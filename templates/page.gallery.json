@@ -11,13 +11,107 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_title": true,
         "title_align": "left"
       }
+    },
+    "tu_gallery_tbpAAU": {
+      "type": "tu-gallery",
+      "blocks": {
+        "image_664HbA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/cy_s_dilemma-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_LmddDE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/all_my_changes_were_there-terryurban.jpg",
+            "title": ""
+          }
+        },
+        "image_9JKjV8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/belle_of_the_ball-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_jPB6mW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_yellow_rose_-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_XYcEma": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/hell_of_a_shot-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_dXwKfK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/wildman_from_waco-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_iY9kdr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/mellow_on_my_mind-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_GXqctW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/outlaw_angel-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_kNRAwK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/a_thousand_miles_from_nowhere-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_gK7WNt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/tres_hobres_de_tejas-terry_urban.jpg",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_664HbA",
+        "image_LmddDE",
+        "image_9JKjV8",
+        "image_jPB6mW",
+        "image_XYcEma",
+        "image_dXwKfK",
+        "image_iY9kdr",
+        "image_GXqctW",
+        "image_kNRAwK",
+        "image_gK7WNt"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "title": "",
+        "columns": "3"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "tu_gallery_tbpAAU"
   ]
 }
