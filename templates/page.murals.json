@@ -11,13 +11,35 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "show_title": true,
         "title_align": "left"
       }
+    },
+    "tu_gallery_dTarpQ": {
+      "type": "tu-gallery",
+      "blocks": {
+        "image_GJiA9K": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ozzy_mural.jpg",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_GJiA9K"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "title": "Louder than Love Festival",
+        "columns": "2"
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "tu_gallery_dTarpQ"
   ]
 }
