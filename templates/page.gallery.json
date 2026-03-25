@@ -253,12 +253,81 @@
         "title": "Miami Art Basel 2025",
         "columns": "3"
       }
+    },
+    "tu_gallery_A4cUej": {
+      "type": "tu-gallery",
+      "blocks": {
+        "image_mj7eRE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Neon_Range_II_-_VIP_23_0fcf8cfb-2a91-4593-bbe8-6dc6d4e309de.jpg",
+            "title": ""
+          }
+        },
+        "image_L3yhQ8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Neon_Range_II_-_Public_21_34d14827-0b07-4c2b-a816-57d90c4d4f6b.jpg",
+            "title": ""
+          }
+        },
+        "image_wh8KnA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Neon_Range_II_-_VIP_12_f4233bdf-4536-4963-b4d1-ba33982c0943.jpg",
+            "title": ""
+          }
+        },
+        "image_mEAUK4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Neon_Range_II_-_VIP_13_ab5261c8-16df-4ecf-b647-6341c743ac98.jpg",
+            "title": ""
+          }
+        },
+        "image_dKxU6L": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Neon-Range-Install-2_38b89ff7-74aa-4f36-9060-88ed0116ef08.jpg",
+            "title": ""
+          }
+        },
+        "image_g6q69B": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Neon-Range-Install-1_593e07ed-afcd-41f5-8790-54e6a058983f.jpg",
+            "title": ""
+          }
+        },
+        "image_6EJnAp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Neon-Range-Install-7_2ba45c2f-84fa-4f8e-80a9-04016305942b.jpg",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_mj7eRE",
+        "image_L3yhQ8",
+        "image_wh8KnA",
+        "image_mEAUK4",
+        "image_dKxU6L",
+        "image_g6q69B",
+        "image_6EJnAp"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "title": "Austin West Chelsea Contemporary 2025",
+        "columns": "3"
+      }
     }
   },
   "order": [
     "main",
     "tu_gallery_eYegtM",
     "tu_gallery_DXActY",
-    "tu_gallery_44Ak6M"
+    "tu_gallery_44Ak6M",
+    "tu_gallery_A4cUej"
   ]
 }
