@@ -125,10 +125,87 @@
         "title": "Austin West Chelsea Contemporary  2026",
         "columns": "3"
       }
+    },
+    "tu_gallery_DXActY": {
+      "type": "tu-gallery",
+      "blocks": {
+        "image_xVJnn9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Terry_LA_Show_5.jpg",
+            "title": ""
+          }
+        },
+        "image_BjVjYM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Terry_LA_Show_4_1f6f9c8a-0378-4915-aebc-b5524d71953f.jpg",
+            "title": ""
+          }
+        },
+        "image_CBnAbM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LA_Terry_2.1.jpg",
+            "title": ""
+          }
+        },
+        "image_wQn8RU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LA_Terry_2.3_68fc65c9-7a57-4317-9683-63dbc3a68f68.jpg",
+            "title": ""
+          }
+        },
+        "image_baAXN7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Terry_LA_Show_3_180d3ea6-81c0-42b9-a405-1355e1c8221f.jpg",
+            "title": ""
+          }
+        },
+        "image_XxH7TB": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Terry_LA_Show_2.jpg",
+            "title": ""
+          }
+        },
+        "image_XpVE4x": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Terry_LA_Show_1.jpg",
+            "title": ""
+          }
+        },
+        "image_h79DrW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/LA_Terry_2.2_c89d53ab-1a51-40f5-9363-46370ffa70c1.jpg",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_xVJnn9",
+        "image_BjVjYM",
+        "image_CBnAbM",
+        "image_wQn8RU",
+        "image_baAXN7",
+        "image_XxH7TB",
+        "image_XpVE4x",
+        "image_h79DrW"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "title": "LA Art Fair 2025",
+        "columns": "3"
+      }
     }
   },
   "order": [
     "main",
-    "tu_gallery_eYegtM"
+    "tu_gallery_eYegtM",
+    "tu_gallery_DXActY"
   ]
 }
