@@ -201,11 +201,64 @@
         "title": "LA Art Fair 2025",
         "columns": "3"
       }
+    },
+    "tu_gallery_44Ak6M": {
+      "type": "tu-gallery",
+      "blocks": {
+        "image_9yrNjd": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ol_girl.jpg",
+            "title": ""
+          }
+        },
+        "image_d8KmVF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/lucky_you.jpg",
+            "title": ""
+          }
+        },
+        "image_cL6Ugc": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/neck_tat.jpg",
+            "title": ""
+          }
+        },
+        "image_BpMDca": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/native.jpg",
+            "title": ""
+          }
+        },
+        "image_9H49UH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/frank.jpg",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_9yrNjd",
+        "image_d8KmVF",
+        "image_cL6Ugc",
+        "image_BpMDca",
+        "image_9H49UH"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "title": "Miami Art Basel 2025",
+        "columns": "3"
+      }
     }
   },
   "order": [
     "main",
     "tu_gallery_eYegtM",
-    "tu_gallery_DXActY"
+    "tu_gallery_DXActY",
+    "tu_gallery_44Ak6M"
   ]
 }
