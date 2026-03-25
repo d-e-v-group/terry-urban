@@ -108,10 +108,223 @@
         "title": "2026",
         "columns": "3"
       }
+    },
+    "tu_gallery_e8b6A3": {
+      "type": "tu-gallery",
+      "blocks": {
+        "image_HAG3xe": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/tejas_two_step-terry_urban_copy.jpg",
+            "title": ""
+          }
+        },
+        "image_RNBjhX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/one_last_ride-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_Edjm8d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/six_shooter_saloon-_terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_Tx8TaN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/last_call-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_m6j6KV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/after_we_die-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_i77HwW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_sacred_medicine-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_8YFqcq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/flowers_in_my_heart_demons_in_my_head-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_yKxxgJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/after_forever-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_eF9An4": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_grevious_angel.jpg",
+            "title": ""
+          }
+        },
+        "image_dT9C64": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/honky_tonk_angel-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_YqJrgx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_well_has_run_dry-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_r6Uerq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_journey_to_you-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_NkJRcP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/boys_dont_cry-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_J8BH8N": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_hunters_daughter-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_LGMB7x": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ol_girl_blues-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_tFUVWU": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/wild_child_full_of_grace-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_aWRUYF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/cy_s_dilemma-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_tb3gjj": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/all_my_changes_were_there-terryurban.jpg",
+            "title": ""
+          }
+        },
+        "image_QFB66e": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/belle_of_the_ball-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_JEY8zV": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_yellow_rose_-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_T9AbDP": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/hell_of_a_shot-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_JTb8na": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/wildman_from_waco-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_CWqcaE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/mellow_on_my_mind-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_wVV7nt": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/outlaw_angel-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_ENE9Xn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/a_thousand_miles_from_nowhere-terry_urban.jpg",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_HAG3xe",
+        "image_RNBjhX",
+        "image_Edjm8d",
+        "image_Tx8TaN",
+        "image_m6j6KV",
+        "image_i77HwW",
+        "image_8YFqcq",
+        "image_yKxxgJ",
+        "image_eF9An4",
+        "image_dT9C64",
+        "image_YqJrgx",
+        "image_r6Uerq",
+        "image_NkJRcP",
+        "image_J8BH8N",
+        "image_LGMB7x",
+        "image_tFUVWU",
+        "image_aWRUYF",
+        "image_tb3gjj",
+        "image_QFB66e",
+        "image_JEY8zV",
+        "image_T9AbDP",
+        "image_JTb8na",
+        "image_CWqcaE",
+        "image_wVV7nt",
+        "image_ENE9Xn"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "title": "2025",
+        "columns": "3"
+      }
     }
   },
   "order": [
     "main",
-    "tu_gallery_tbpAAU"
+    "tu_gallery_tbpAAU",
+    "tu_gallery_e8b6A3"
   ]
 }
