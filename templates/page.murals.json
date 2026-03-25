@@ -33,13 +33,111 @@
       ],
       "name": "Gallery",
       "settings": {
-        "title": "Louder than Love Festival",
+        "title": "Louder than Life",
         "columns": "2"
+      }
+    },
+    "tu_gallery_7p7p7N": {
+      "type": "tu-gallery",
+      "blocks": {
+        "image_bm6M9B": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/MTV_MURAL_FOR_MGK.jpg",
+            "title": ""
+          }
+        },
+        "image_hWY6hM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Terry_w_MTV_Mural.jpg",
+            "title": ""
+          }
+        },
+        "image_Y96nAX": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/mgk_x_terry_urban_mural_mg-26.jpg",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_bm6M9B",
+        "image_hWY6hM",
+        "image_Y96nAX"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "title": "MTV VMAS",
+        "columns": "3"
+      }
+    },
+    "tu_gallery_RM84yU": {
+      "type": "tu-gallery",
+      "blocks": {
+        "image_qArX9d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ArtPillars_ST24_Day1_LexieAlley_4.jpg",
+            "title": ""
+          }
+        },
+        "image_CcbAN3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Experience_ST24_Day1_NathanZucker_68.jpg",
+            "title": ""
+          }
+        },
+        "image_6FrgDF": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Art_Pillars_Sonic_Temple_0518-2024__nathanzucker_NZ3_9384.jpg",
+            "title": ""
+          }
+        },
+        "image_FGVAdp": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Experience_ST24_Day1_NathanZucker_51.jpg",
+            "title": ""
+          }
+        },
+        "image_rHwerL": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ArtPillars_ST24_Day3_NathanZucker_1.jpg",
+            "title": ""
+          }
+        },
+        "image_6QxDQD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Experience_ST24_Day1_NathanZucker_50.jpg",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_qArX9d",
+        "image_CcbAN3",
+        "image_6FrgDF",
+        "image_FGVAdp",
+        "image_rHwerL",
+        "image_6QxDQD"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "title": "Sonic Temple",
+        "columns": "3"
       }
     }
   },
   "order": [
     "main",
-    "tu_gallery_dTarpQ"
+    "tu_gallery_dTarpQ",
+    "tu_gallery_7p7p7N",
+    "tu_gallery_RM84yU"
   ]
 }
