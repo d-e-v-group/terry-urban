@@ -320,11 +320,104 @@
         "title": "2025",
         "columns": "3"
       }
+    },
+    "tu_gallery_NU9YBj": {
+      "type": "tu-gallery",
+      "blocks": {
+        "image_BAF9Nf": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_proposal-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_9FYkHr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/in_the_name_of_the_father-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_yR3GGy": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_offering-terry_urban_e1a9ebcb-6c90-44b5-acb7-7679dacd4101.jpg",
+            "title": ""
+          }
+        },
+        "image_GpKX7r": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/home_sweet_home-_terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_JMwcNA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/showdown_at_rodeo_motel-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_kEAQr9": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/one_last_kiss-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_hFrKXE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_death_of_a_dream-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_qjHtKr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/killing_of_the_sacred_horse-terry_urban_0693a408-9743-4754-b566-91c46e7ac505.jpg",
+            "title": ""
+          }
+        },
+        "image_aVnH7L": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/long_time_gone-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_xiJCjD": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/major_et_melior-terry_urban.jpg",
+            "title": ""
+          }
+        }
+      },
+      "block_order": [
+        "image_BAF9Nf",
+        "image_9FYkHr",
+        "image_yR3GGy",
+        "image_GpKX7r",
+        "image_JMwcNA",
+        "image_kEAQr9",
+        "image_hFrKXE",
+        "image_qjHtKr",
+        "image_aVnH7L",
+        "image_xiJCjD"
+      ],
+      "name": "Gallery",
+      "settings": {
+        "title": "20224",
+        "columns": "3"
+      }
     }
   },
   "order": [
     "main",
     "tu_gallery_tbpAAU",
-    "tu_gallery_e8b6A3"
+    "tu_gallery_e8b6A3",
+    "tu_gallery_NU9YBj"
   ]
 }
