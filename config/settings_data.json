@@ -585,6 +585,7 @@
           "image_jYrp6d",
           "image_zgcUBA"
         ],
+        "disabled": true,
         "name": "Gallery",
         "settings": {
           "title": "Amazing Gallery",
