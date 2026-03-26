@@ -159,6 +159,14 @@
             </a>
           </li>
         {% endif %}
+        {% if settings.social_tiktok_link != blank %}
+          <li>
+            <a href="{{ settings.social_tiktok_link | escape }}" title="{{ 'layout.footer.social_platform' | t: name: shop.name, platform: 'TikTok' }}">
+              {% include 'icon-tiktok' %}
+              <span class="icon__fallback-text">TikTok</span>
+            </a>
+          </li>
+        {% endif %}
         {% if settings.main_blog != blank %}
           <li>
             <a href="/blogs/{{ settings.main_blog }}.atom">

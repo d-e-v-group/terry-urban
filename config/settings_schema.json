@@ -2281,6 +2281,52 @@
         }
       },
       {
+        "type": "text",
+        "id": "social_tiktok_link",
+        "label": {
+          "da": "TikTok",
+          "de": "TikTok",
+          "en": "TikTok",
+          "es": "TikTok",
+          "fi": "TikTok",
+          "fr": "TikTok",
+          "hi": "TikTok",
+          "it": "TikTok",
+          "ja": "TikTok",
+          "ko": "틱톡",
+          "ms": "TikTok",
+          "nb": "TikTok",
+          "nl": "TikTok",
+          "pt-BR": "TikTok",
+          "pt-PT": "TikTok",
+          "sv": "TikTok",
+          "th": "ติกต็อก",
+          "zh-CN": "TikTok",
+          "zh-TW": "TikTok"
+        },
+        "info": {
+          "da": "https://www.tiktok.com",
+          "de": "https://www.tiktok.com",
+          "en": "https://www.tiktok.com",
+          "es": "https://www.tiktok.com",
+          "fi": "https://www.tiktok.com",
+          "fr": "https://www.tiktok.com",
+          "hi": "https://www.tiktok.com",
+          "it": "https://www.tiktok.com",
+          "ja": "https://www.tiktok.com",
+          "ko": "https://www.tiktok.com",
+          "ms": "https://www.tiktok.com",
+          "nb": "https://www.tiktok.com",
+          "nl": "https://www.tiktok.com",
+          "pt-BR": "https://www.tiktok.com",
+          "pt-PT": "https://www.tiktok.com",
+          "sv": "https://www.tiktok.com",
+          "th": "https://www.tiktok.com",
+          "zh-CN": "https://www.tiktok.com",
+          "zh-TW": "https://www.tiktok.com"
+        }
+      },
+      {
         "type": "blog",
         "id": "main_blog",
         "label": {
