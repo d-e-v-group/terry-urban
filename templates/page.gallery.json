@@ -89,29 +89,7 @@
             "image": "shopify://shop_images/tres_hobres_de_tejas-terry_urban.jpg",
             "title": ""
           }
-        }
-      },
-      "block_order": [
-        "image_664HbA",
-        "image_LmddDE",
-        "image_9JKjV8",
-        "image_jPB6mW",
-        "image_XYcEma",
-        "image_dXwKfK",
-        "image_iY9kdr",
-        "image_GXqctW",
-        "image_kNRAwK",
-        "image_gK7WNt"
-      ],
-      "name": "Gallery",
-      "settings": {
-        "title": "2026",
-        "columns": "3"
-      }
-    },
-    "tu_gallery_e8b6A3": {
-      "type": "tu-gallery",
-      "blocks": {
+        },
         "image_HAG3xe": {
           "type": "image",
           "settings": {
@@ -224,106 +202,6 @@
             "title": ""
           }
         },
-        "image_aWRUYF": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/cy_s_dilemma-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_tb3gjj": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/all_my_changes_were_there-terryurban.jpg",
-            "title": ""
-          }
-        },
-        "image_QFB66e": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/belle_of_the_ball-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_JEY8zV": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/the_yellow_rose_-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_T9AbDP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/hell_of_a_shot-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_JTb8na": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/wildman_from_waco-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_CWqcaE": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/mellow_on_my_mind-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_wVV7nt": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/outlaw_angel-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_ENE9Xn": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/a_thousand_miles_from_nowhere-terry_urban.jpg",
-            "title": ""
-          }
-        }
-      },
-      "block_order": [
-        "image_HAG3xe",
-        "image_RNBjhX",
-        "image_Edjm8d",
-        "image_Tx8TaN",
-        "image_m6j6KV",
-        "image_i77HwW",
-        "image_8YFqcq",
-        "image_yKxxgJ",
-        "image_eF9An4",
-        "image_dT9C64",
-        "image_YqJrgx",
-        "image_r6Uerq",
-        "image_NkJRcP",
-        "image_J8BH8N",
-        "image_LGMB7x",
-        "image_tFUVWU",
-        "image_aWRUYF",
-        "image_tb3gjj",
-        "image_QFB66e",
-        "image_JEY8zV",
-        "image_T9AbDP",
-        "image_JTb8na",
-        "image_CWqcaE",
-        "image_wVV7nt",
-        "image_ENE9Xn"
-      ],
-      "name": "Gallery",
-      "settings": {
-        "title": "2025",
-        "columns": "3"
-      }
-    },
-    "tu_gallery_NU9YBj": {
-      "type": "tu-gallery",
-      "blocks": {
         "image_BAF9Nf": {
           "type": "image",
           "settings": {
@@ -396,6 +274,32 @@
         }
       },
       "block_order": [
+        "image_664HbA",
+        "image_LmddDE",
+        "image_9JKjV8",
+        "image_jPB6mW",
+        "image_XYcEma",
+        "image_dXwKfK",
+        "image_iY9kdr",
+        "image_GXqctW",
+        "image_kNRAwK",
+        "image_gK7WNt",
+        "image_HAG3xe",
+        "image_RNBjhX",
+        "image_Edjm8d",
+        "image_Tx8TaN",
+        "image_m6j6KV",
+        "image_i77HwW",
+        "image_8YFqcq",
+        "image_yKxxgJ",
+        "image_eF9An4",
+        "image_dT9C64",
+        "image_YqJrgx",
+        "image_r6Uerq",
+        "image_NkJRcP",
+        "image_J8BH8N",
+        "image_LGMB7x",
+        "image_tFUVWU",
         "image_BAF9Nf",
         "image_9FYkHr",
         "image_yR3GGy",
@@ -409,15 +313,13 @@
       ],
       "name": "Gallery",
       "settings": {
-        "title": "2024",
+        "title": "",
         "columns": "3"
       }
     }
   },
   "order": [
     "main",
-    "tu_gallery_tbpAAU",
-    "tu_gallery_e8b6A3",
-    "tu_gallery_NU9YBj"
+    "tu_gallery_tbpAAU"
   ]
 }
