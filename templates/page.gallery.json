@@ -20,24 +20,31 @@
     "tu_gallery_tbpAAU": {
       "type": "tu-gallery",
       "blocks": {
-        "image_664HbA": {
+        "image_fNdCLJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/cy_s_dilemma-terry_urban.jpg",
+            "image": "shopify://shop_images/home_sweet_home-terry_urban.jpg",
             "title": ""
           }
         },
-        "image_LmddDE": {
+        "image_kqGBtw": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/all_my_changes_were_there-terryurban.jpg",
+            "image": "shopify://shop_images/lucille_s_garden-terry_urban.jpg",
             "title": ""
           }
         },
-        "image_9JKjV8": {
+        "image_Cx7kG9": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/belle_of_the_ball-terry_urban.jpg",
+            "image": "shopify://shop_images/souls_of_the_underpass-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_WnVVyq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_lost_mother-terry_urban.jpg",
             "title": ""
           }
         },
@@ -48,24 +55,10 @@
             "title": ""
           }
         },
-        "image_XYcEma": {
+        "image_664HbA": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/hell_of_a_shot-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_dXwKfK": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/wildman_from_waco-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_iY9kdr": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/mellow_on_my_mind-terry_urban.jpg",
+            "image": "shopify://shop_images/cy_s_dilemma-terry_urban.jpg",
             "title": ""
           }
         },
@@ -83,10 +76,73 @@
             "title": ""
           }
         },
+        "image_9JKjV8": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/belle_of_the_ball-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_r6Uerq": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_journey_to_you-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_iY9kdr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/mellow_on_my_mind-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_Edjm8d": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/six_shooter_saloon-_terry_urban.jpg",
+            "title": ""
+          }
+        },
         "image_gK7WNt": {
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/tres_hombres_side_one.jpg",
+            "title": ""
+          }
+        },
+        "image_LGMB7x": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/ol_girl_blues-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_JMwcNA": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/showdown_slide_two_copy.jpg",
+            "title": ""
+          }
+        },
+        "image_Tx8TaN": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/last_call-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_dXwKfK": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/wildman_from_waco-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_LmddDE": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/all_my_changes_were_there-terryurban.jpg",
             "title": ""
           }
         },
@@ -104,31 +160,10 @@
             "title": ""
           }
         },
-        "image_Edjm8d": {
+        "image_eF9An4": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/six_shooter_saloon-_terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_Tx8TaN": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/last_call-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_m6j6KV": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/after_we_die-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_i77HwW": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/the_sacred_medicine-terry_urban.jpg",
+            "image": "shopify://shop_images/the_grevious_angel.jpg",
             "title": ""
           }
         },
@@ -139,66 +174,17 @@
             "title": ""
           }
         },
-        "image_yKxxgJ": {
+        "image_i77HwW": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/after_forever-terry_urban.jpg",
+            "image": "shopify://shop_images/the_sacred_medicine-terry_urban.jpg",
             "title": ""
           }
         },
-        "image_eF9An4": {
+        "image_XYcEma": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/the_grevious_angel.jpg",
-            "title": ""
-          }
-        },
-        "image_dT9C64": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/honky_tonk_angel-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_YqJrgx": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/the_well_has_run_dry-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_r6Uerq": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/the_journey_to_you-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_NkJRcP": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/boys_dont_cry-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_J8BH8N": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/the_hunters_daughter-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_LGMB7x": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/ol_girl_blues-terry_urban.jpg",
-            "title": ""
-          }
-        },
-        "image_tFUVWU": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/wild_child_full_of_grace-terry_urban.jpg",
+            "image": "shopify://shop_images/hell_of_a_shot-terry_urban.jpg",
             "title": ""
           }
         },
@@ -209,10 +195,38 @@
             "title": ""
           }
         },
-        "image_9FYkHr": {
+        "image_yKxxgJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/in_the_name_of_the_father-terry_urban.jpg",
+            "image": "shopify://shop_images/after_forever-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_H8hghH": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/wild_as_the_west_texas_wind-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_YqJrgx": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_well_has_run_dry-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_dT9C64": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/honky_tonk_angel-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_aVnH7L": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/long_time_gone-terry_urban.jpg",
             "title": ""
           }
         },
@@ -223,17 +237,24 @@
             "title": ""
           }
         },
-        "image_GpKX7r": {
+        "image_J8BH8N": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/home_sweet_home-_terry_urban.jpg",
+            "image": "shopify://shop_images/the_hunters_daughter-terry_urban.jpg",
             "title": ""
           }
         },
-        "image_JMwcNA": {
+        "image_tFUVWU": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/showdown_slide_two_copy.jpg",
+            "image": "shopify://shop_images/wild_child_full_of_grace-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_qjHtKr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/killing_of_the_sacred_horse-terry_urban_0693a408-9743-4754-b566-91c46e7ac505.jpg",
             "title": ""
           }
         },
@@ -251,22 +272,38 @@
             "title": ""
           }
         },
-        "image_qjHtKr": {
+        "image_JmXgyF": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/killing_of_the_sacred_horse-terry_urban_0693a408-9743-4754-b566-91c46e7ac505.jpg",
+            "image": "shopify://shop_images/sunday_by_the_sea-_terry_urban.jpg",
             "title": ""
           }
         },
-        "image_aVnH7L": {
+        "image_NkJRcP": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/long_time_gone-terry_urban.jpg",
+            "image": "shopify://shop_images/boys_dont_cry-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_9FYkHr": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/in_the_name_of_the_father-terry_urban.jpg",
+            "title": ""
+          }
+        },
+        "image_m6j6KV": {
+          "type": "image",
+          "disabled": true,
+          "settings": {
+            "image": "shopify://shop_images/after_we_die-terry_urban.jpg",
             "title": ""
           }
         },
         "image_xiJCjD": {
           "type": "image",
+          "disabled": true,
           "settings": {
             "image": "shopify://shop_images/major_et_melior-terry_urban.jpg",
             "title": ""
@@ -274,41 +311,46 @@
         }
       },
       "block_order": [
-        "image_664HbA",
-        "image_LmddDE",
-        "image_9JKjV8",
+        "image_fNdCLJ",
+        "image_kqGBtw",
+        "image_Cx7kG9",
+        "image_WnVVyq",
         "image_jPB6mW",
-        "image_XYcEma",
-        "image_dXwKfK",
-        "image_iY9kdr",
+        "image_664HbA",
         "image_GXqctW",
         "image_kNRAwK",
+        "image_9JKjV8",
+        "image_r6Uerq",
+        "image_iY9kdr",
+        "image_Edjm8d",
         "image_gK7WNt",
+        "image_LGMB7x",
+        "image_JMwcNA",
+        "image_Tx8TaN",
+        "image_dXwKfK",
+        "image_LmddDE",
         "image_HAG3xe",
         "image_RNBjhX",
-        "image_Edjm8d",
-        "image_Tx8TaN",
-        "image_m6j6KV",
-        "image_i77HwW",
-        "image_8YFqcq",
-        "image_yKxxgJ",
         "image_eF9An4",
-        "image_dT9C64",
-        "image_YqJrgx",
-        "image_r6Uerq",
-        "image_NkJRcP",
-        "image_J8BH8N",
-        "image_LGMB7x",
-        "image_tFUVWU",
+        "image_8YFqcq",
+        "image_i77HwW",
+        "image_XYcEma",
         "image_BAF9Nf",
-        "image_9FYkHr",
+        "image_yKxxgJ",
+        "image_H8hghH",
+        "image_YqJrgx",
+        "image_dT9C64",
+        "image_aVnH7L",
         "image_yR3GGy",
-        "image_GpKX7r",
-        "image_JMwcNA",
+        "image_J8BH8N",
+        "image_tFUVWU",
+        "image_qjHtKr",
         "image_kEAQr9",
         "image_hFrKXE",
-        "image_qjHtKr",
-        "image_aVnH7L",
+        "image_JmXgyF",
+        "image_NkJRcP",
+        "image_9FYkHr",
+        "image_m6j6KV",
         "image_xiJCjD"
       ],
       "name": "Gallery",
