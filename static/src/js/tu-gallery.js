@@ -25,9 +25,9 @@
 		el.setAttribute("aria-label", "Image lightbox");
 		el.innerHTML = [
 			'<div class="tu-lightbox__overlay"></div>',
-			'<p class="tu-lightbox__title"></p>',
 			'<div class="tu-lightbox__frame">',
 			'  <img class="tu-lightbox__image" src="" alt="">',
+			'  <p class="tu-lightbox__title"></p>',
 			"</div>",
 			'<button class="tu-lightbox__close" aria-label="Close">&times;</button>',
 			'<div class="tu-lightbox__nav">',
