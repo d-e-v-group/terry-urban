@@ -539,7 +539,7 @@
             "type": "image",
             "settings": {
               "image": "shopify://shop_images/1A_360x_9bf9bf62-672f-46c8-8cb3-427f9031e0b2.webp",
-              "title": "black t"
+              "title": "black t\nLogo on front"
             }
           },
           "image_EUmra9": {
@@ -589,7 +589,8 @@
         "name": "Gallery",
         "settings": {
           "title": "Amazing Gallery",
-          "columns": "4"
+          "columns": "4",
+          "show_captions": false
         }
       }
     },
