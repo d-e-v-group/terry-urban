@@ -167,12 +167,12 @@
               "button_link": "http://www.forthosewhosin.com"
             }
           },
-          "image_pLM7Rn": {
+          "1568061506981-1": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/smaller_version.jpg",
+              "image": "shopify://shop_images/working_on_mural-terry_urban.JPG",
               "alignment": "center center",
-              "overlay_opacity": 30,
+              "overlay_opacity": 0,
               "color_text": "#ffffff",
               "text_alignment": "center",
               "slide_heading": "",
@@ -180,12 +180,12 @@
               "button_link": ""
             }
           },
-          "1568061506981-1": {
+          "image_pLM7Rn": {
             "type": "image",
             "settings": {
-              "image": "shopify://shop_images/working_on_mural-terry_urban.JPG",
+              "image": "shopify://shop_images/ArtPillars_ST24_Day1_LexieAlley_4.jpg",
               "alignment": "center center",
-              "overlay_opacity": 0,
+              "overlay_opacity": 30,
               "color_text": "#ffffff",
               "text_alignment": "center",
               "slide_heading": "",
@@ -211,8 +211,8 @@
           "1818c24b-3bbe-4790-b2e8-0d2087debd68",
           "1568062182291",
           "1568061636696",
-          "image_pLM7Rn",
           "1568061506981-1",
+          "image_pLM7Rn",
           "1568061506981-0"
         ],
         "settings": {
