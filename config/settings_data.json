@@ -128,19 +128,6 @@
       "1568061506981": {
         "type": "slideshow",
         "blocks": {
-          "image_K4Cfa8": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/smaller_version.jpg",
-              "alignment": "center center",
-              "overlay_opacity": 30,
-              "color_text": "#ffffff",
-              "text_alignment": "center",
-              "slide_heading": "",
-              "button_label": "",
-              "button_link": ""
-            }
-          },
           "1818c24b-3bbe-4790-b2e8-0d2087debd68": {
             "type": "image",
             "settings": {
@@ -180,6 +167,19 @@
               "button_link": "http://www.forthosewhosin.com"
             }
           },
+          "image_pLM7Rn": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/smaller_version.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
           "1568061506981-1": {
             "type": "image",
             "settings": {
@@ -208,10 +208,10 @@
           }
         },
         "block_order": [
-          "image_K4Cfa8",
           "1818c24b-3bbe-4790-b2e8-0d2087debd68",
           "1568062182291",
           "1568061636696",
+          "image_pLM7Rn",
           "1568061506981-1",
           "1568061506981-0"
         ],
