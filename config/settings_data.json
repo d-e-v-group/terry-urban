@@ -128,6 +128,19 @@
       "1568061506981": {
         "type": "slideshow",
         "blocks": {
+          "image_K4Cfa8": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/smaller_version.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 30,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
           "1818c24b-3bbe-4790-b2e8-0d2087debd68": {
             "type": "image",
             "settings": {
@@ -192,28 +205,15 @@
               "button_label": "",
               "button_link": ""
             }
-          },
-          "b89328d1-f565-4bf7-96cf-d670173a8b3a": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/mgk_x_terry_urban_mural_mg-31.jpg",
-              "alignment": "center center",
-              "overlay_opacity": 30,
-              "color_text": "#ffffff",
-              "text_alignment": "center",
-              "slide_heading": "",
-              "button_label": "",
-              "button_link": ""
-            }
           }
         },
         "block_order": [
+          "image_K4Cfa8",
           "1818c24b-3bbe-4790-b2e8-0d2087debd68",
           "1568062182291",
           "1568061636696",
           "1568061506981-1",
-          "1568061506981-0",
-          "b89328d1-f565-4bf7-96cf-d670173a8b3a"
+          "1568061506981-0"
         ],
         "settings": {
           "slider_height": "large",
@@ -586,6 +586,7 @@
           "image_jYrp6d",
           "image_zgcUBA"
         ],
+        "disabled": true,
         "name": "Gallery",
         "settings": {
           "title": "Amazing Gallery",
