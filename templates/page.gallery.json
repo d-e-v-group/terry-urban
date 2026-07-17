@@ -24,7 +24,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/home_sweet_home-terry_urban.jpg",
-            "title": "Text Trial"
+            "title": "Text Trial\nNew Line\n40 x 20"
           }
         },
         "image_kqGBtw": {
@@ -356,7 +356,8 @@
       "name": "Gallery",
       "settings": {
         "title": "",
-        "columns": "3"
+        "columns": "3",
+        "show_captions": false
       }
     }
   },
