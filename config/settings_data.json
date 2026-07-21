@@ -535,6 +535,13 @@
       "tu_gallery_UGQBEN": {
         "type": "tu-gallery",
         "blocks": {
+          "image_gJ6L6g": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/home_sweet_home-terry_urban.jpg",
+              "title": "Text\nNew Line\n30 x 20"
+            }
+          },
           "image_rf4yq6": {
             "type": "image",
             "settings": {
@@ -579,6 +586,7 @@
           }
         },
         "block_order": [
+          "image_gJ6L6g",
           "image_rf4yq6",
           "image_EUmra9",
           "image_b3Lrnw",
