@@ -97,13 +97,6 @@
             "image": "shopify://shop_images/2026_-_Beyond_The_West_-_Mid-Show_-_VIP_-_6.jpg",
             "title": ""
           }
-        },
-        "image_4X9tet": {
-          "type": "image",
-          "settings": {
-            "image": "shopify://shop_images/2026_-_Beyond_The_West_-_Mid-Show_-_VIP_-_5.jpg",
-            "title": ""
-          }
         }
       },
       "block_order": [
@@ -117,13 +110,13 @@
         "image_L4eQ9w",
         "image_gbzhXF",
         "image_YfPYgt",
-        "image_AHhCfb",
-        "image_4X9tet"
+        "image_AHhCfb"
       ],
       "name": "Gallery",
       "settings": {
         "title": "Austin West Chelsea Contemporary  2026",
-        "columns": "3"
+        "columns": "3",
+        "show_captions": false
       }
     },
     "tu_gallery_DXActY": {
@@ -199,7 +192,8 @@
       "name": "Gallery",
       "settings": {
         "title": "LA Art Fair 2025",
-        "columns": "3"
+        "columns": "3",
+        "show_captions": false
       }
     },
     "tu_gallery_44Ak6M": {
@@ -251,7 +245,8 @@
       "name": "Gallery",
       "settings": {
         "title": "Miami Art Basel 2025",
-        "columns": "3"
+        "columns": "3",
+        "show_captions": false
       }
     },
     "tu_gallery_A4cUej": {
@@ -319,7 +314,8 @@
       "name": "Gallery",
       "settings": {
         "title": "Austin West Chelsea Contemporary 2025",
-        "columns": "3"
+        "columns": "3",
+        "show_captions": false
       }
     }
   },
