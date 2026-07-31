@@ -524,12 +524,12 @@
         "type": "featured-row",
         "name": "Image with text",
         "settings": {
-          "image": "shopify://shop_images/print_for_ig_post.jpg",
+          "image": "shopify://shop_images/outlaw_angel_print.jpg",
           "layout": "left",
-          "title": "Boys Don't Cry Print",
-          "text": "<p>New print release from House of Roux and Terry Urban. </p><p>Hand-signed and numbered by artist Terry Urban in a limited edition of 100</p><p>Autographed archival pigment print • Moab Entrada Rag Bright 290 GSM archival paper • 16 x 20 inches </p><p>House of Roulx blind embossed stamping • Authentic Edition rubber stamp on verso • Letter of Authenticity</p><p></p>",
-          "button_label": "AVAILABLE NOW",
-          "button_link": "https://www.houseofroulx.com/collections/terry-urban/products/terry-urban-boys-dont-cry-archival-print-limited-edition-of-100-16-x-20"
+          "title": "Outlaw Angel Print",
+          "text": "<p>New print release from House of Roux and Terry Urban. </p><p>Hand-signed and numbered by artist Terry Urban in a limited edition.</p><p>House of Roulx blind embossed stamping • Authentic Edition rubber stamp on verso • Letter of Authenticity</p><p></p>",
+          "button_label": "AVAILABLE AUGUST 6TH",
+          "button_link": "https://www.houseofroulx.com/collections/terry-urban"
         }
       },
       "tu_gallery_UGQBEN": {
