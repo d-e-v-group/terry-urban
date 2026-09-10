@@ -154,6 +154,19 @@
               "button_link": ""
             }
           },
+          "image_pLM7Rn": {
+            "type": "image",
+            "settings": {
+              "image": "shopify://shop_images/tres_hombres_museum_wide_angle.jpg",
+              "alignment": "center center",
+              "overlay_opacity": 0,
+              "color_text": "#ffffff",
+              "text_alignment": "center",
+              "slide_heading": "",
+              "button_label": "",
+              "button_link": ""
+            }
+          },
           "1568061636696": {
             "type": "image",
             "settings": {
@@ -180,19 +193,6 @@
               "button_link": ""
             }
           },
-          "image_pLM7Rn": {
-            "type": "image",
-            "settings": {
-              "image": "shopify://shop_images/tres_hombres_museum_wide_angle.jpg",
-              "alignment": "center center",
-              "overlay_opacity": 30,
-              "color_text": "#ffffff",
-              "text_alignment": "center",
-              "slide_heading": "",
-              "button_label": "",
-              "button_link": ""
-            }
-          },
           "1568061506981-0": {
             "type": "image",
             "settings": {
@@ -210,9 +210,9 @@
         "block_order": [
           "1818c24b-3bbe-4790-b2e8-0d2087debd68",
           "1568062182291",
+          "image_pLM7Rn",
           "1568061636696",
           "1568061506981-1",
-          "image_pLM7Rn",
           "1568061506981-0"
         ],
         "settings": {
