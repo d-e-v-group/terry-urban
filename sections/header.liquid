@@ -112,7 +112,7 @@
         {% endcomment %}
         {%- assign img_url = section.settings.logo | img_url: '1x1' | replace: '_1x1.', '_{width}x.' -%}
         {% assign width = section.settings.logo_max_width | times: 1 %}
-        {% include 'image-style' with image: section.settings.logo, width: width, height: 600, small_style: false, wrapper_id: 'HeaderLogoWrapper', img_id: 'HeaderLogo' %}
+        {% include 'image-style' with image, image: section.settings.logo, width: width, height: 600, small_style: false, wrapper_id: 'HeaderLogoWrapper', img_id: 'HeaderLogo' %}
 
         {% if section.settings.logo %}
           <div id="HeaderLogoWrapper" class="supports-js">
@@ -507,3 +507,17 @@
   ]
 }
 {% endschema %}
+{% comment %}
+
+This file has been rewritten to preserve the original behavior.
+
+---
+Changes:
+- from: "{% include 'image-style' with image: section.settings.logo, width: width,
+    height: 600, small_style: false, wrapper_id: 'HeaderLogoWrapper', img_id: 'HeaderLogo'
+    %}"
+  to: "{% include 'image-style' with image, image: section.settings.logo, width: width,
+    height: 600, small_style: false, wrapper_id: 'HeaderLogoWrapper', img_id: 'HeaderLogo'
+    %}"
+  position: 4787..4957
+{% endcomment %}
