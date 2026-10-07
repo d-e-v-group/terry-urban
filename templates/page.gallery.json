@@ -20,6 +20,13 @@
     "tu_gallery_tbpAAU": {
       "type": "tu-gallery",
       "blocks": {
+        "image_dHekNM": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/a_horse_named_bucket-terry_urban.jpg",
+            "title": "A Horse Named Bucket, 2026\nAcrylic, oil, charcoal on canvas\n48 x 60 in"
+          }
+        },
         "image_zUfmtb": {
           "type": "image",
           "settings": {
@@ -318,6 +325,7 @@
         }
       },
       "block_order": [
+        "image_dHekNM",
         "image_zUfmtb",
         "image_fNdCLJ",
         "image_kqGBtw",
