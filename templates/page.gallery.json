@@ -20,6 +20,13 @@
     "tu_gallery_tbpAAU": {
       "type": "tu-gallery",
       "blocks": {
+        "image_RhC4eb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/refuse_to_be_broken-terry_urban.jpg",
+            "title": "Refuse To Be Broken, 2026\nAcrylic, charcoal, oil, brown paper on canvas\n48 x 60 x 1.5 inches"
+          }
+        },
         "image_yC93hW": {
           "type": "image",
           "settings": {
@@ -339,6 +346,7 @@
         }
       },
       "block_order": [
+        "image_RhC4eb",
         "image_yC93hW",
         "image_4RKMcn",
         "image_dHekNM",
