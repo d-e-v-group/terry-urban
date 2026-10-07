@@ -20,6 +20,13 @@
     "tu_gallery_tbpAAU": {
       "type": "tu-gallery",
       "blocks": {
+        "image_4RKMcn": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/peace_of_mind-terry_urban.jpg",
+            "title": "Peace of Mind, 2026\nAcrylic, charcoal on raw canvas \n48 x 60 x 1.5 in"
+          }
+        },
         "image_dHekNM": {
           "type": "image",
           "settings": {
@@ -325,6 +332,7 @@
         }
       },
       "block_order": [
+        "image_4RKMcn",
         "image_dHekNM",
         "image_zUfmtb",
         "image_fNdCLJ",
