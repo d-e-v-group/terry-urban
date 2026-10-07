@@ -20,6 +20,13 @@
     "tu_gallery_tbpAAU": {
       "type": "tu-gallery",
       "blocks": {
+        "image_yC93hW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/a_real_rain_will_come_someday-_terry_urban.jpg",
+            "title": "A Real Rain Will Come Soon, 2026\nAcrylic, oil, charcoal, pastel on canvas\n48 x 60 x 1.5 in"
+          }
+        },
         "image_4RKMcn": {
           "type": "image",
           "settings": {
@@ -332,6 +339,7 @@
         }
       },
       "block_order": [
+        "image_yC93hW",
         "image_4RKMcn",
         "image_dHekNM",
         "image_zUfmtb",
