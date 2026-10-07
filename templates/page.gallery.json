@@ -20,6 +20,13 @@
     "tu_gallery_tbpAAU": {
       "type": "tu-gallery",
       "blocks": {
+        "image_zUfmtb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/the_home_we_never_seen-terry_urabn.jpg",
+            "title": "The Home we Never Seen, 2026\nAcrylic, charcoal on raw canvas\n48 x 60 in"
+          }
+        },
         "image_fNdCLJ": {
           "type": "image",
           "settings": {
@@ -311,6 +318,7 @@
         }
       },
       "block_order": [
+        "image_zUfmtb",
         "image_fNdCLJ",
         "image_kqGBtw",
         "image_Cx7kG9",
